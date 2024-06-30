@@ -1,2 +1,3 @@
 # ps3-sfo-parser
-Parse SFO files generated from PS3, in golang
+This tool is used to read the SFO file format used by the PS3.
+
